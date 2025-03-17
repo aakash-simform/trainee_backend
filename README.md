@@ -20,7 +20,11 @@ A simple **User Management App** built with **React** on the frontend and **Expr
 ---
 
 ## Getting Started
+### Prerequisites
 
+Make sure you have the following installed on your machine:
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
 ### Backend Setup (Express)
 
 1. **Clone the repository**:
