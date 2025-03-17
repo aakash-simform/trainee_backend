@@ -26,14 +26,13 @@ A simple **User Management App** built with **React** on the frontend and **Expr
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/aakash-simform/trainee_backend.git
-   cd trainee_backend
+   git clone https://github.com/aakash-simform/trainee_backend.git   
    ```
 
-2. **Navigate to the server folder** and install dependencies:
+2. **Navigate to the trainee_backend folder** and install dependencies:
 
    ```bash
-   cd server
+   cd trainee_backend
    npm install
    ```
 
