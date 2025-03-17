@@ -14,7 +14,7 @@ A simple **User Management App** built with **React** on the frontend and **Expr
 ## Technologies
 - **Frontend**: React, React Router, Fetch API
 - **Backend**: Express.js
-- **Database**: In-memory (for simplicity, no database is used in this project)
+- **Database**: Mysql
 - **CORS**: For handling cross-origin requests between the React frontend and Express backend.
 
 ---
